@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnimalQuest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnimalQuest_jar</output-path>
+    <root id="archive" name="AnimalQuest.jar">
+      <element id="module-output" name="AnimalQuest" />
+    </root>
+  </artifact>
+</component>
